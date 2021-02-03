@@ -20,3 +20,5 @@ git must be installed in the system.
 18. edit that file. and commit it from github
 19.then take a pull on the local system.(sourcecontrol moreoption pull button)
 20 trying pull command from cmd
+
+hello all
